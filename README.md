@@ -17,7 +17,7 @@ A summary of my tech experience.
 - AWS Lambda (Node.js)
 - CloudWatch Events + SQS for scheduled Rails tasks
 - Consul
-- Credstash for secrets management
+- Credstash for secrets management (Meetup talk: [demo project](https://github.com/alimac/credstash-demo), [video](https://vimeo.com/224435240#t=12m13s))
 - Heroku
 - MySQL
 - Postgres
