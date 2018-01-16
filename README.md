@@ -28,6 +28,7 @@ A summary of my tech experience.
 
 - Chef for configuration management and orchestration
 - DB2
+- Python for building Errbot plugins - _Adventures with Errbot_ blog series [Part 1](https://alimac.io/adventures-with-errbot-part-1/), [Part 2](https://alimac.io/adventures-with-errbot-part-2/), and [Part3](https://alimac.io/adventures-with-errbot-part-3/)
 - Drupal
 - Virtualization with KVM/QEMU and libvrt (RHEL, CentOS + SELinux)
 - Web applications in Perl on the LAMP stack
